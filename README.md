@@ -2,5 +2,5 @@
 My data science portofolio
 
 # Project 1: Data Science .......
-. penjelasan 1
-. penjelasan 2
+- Penjelasan 1
+- Penjelasan 2
