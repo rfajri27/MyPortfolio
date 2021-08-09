@@ -7,5 +7,5 @@ It's My Portfolio
 - Used Deep Neural Network (DNN) as a model
 - Deployed the model into Android App using TensorFlow Lite and published on GitHub as an open-source
 project
-![](/images/gambar1.png)
-![](/images/gambar2.png)
+![](https://github.com/rfajri27/MyPortfolio/blob/main/images/gambar_1.png)
+![](https://github.com/rfajri27/MyPortfolio/blob/main/images/gambar_2.png)
