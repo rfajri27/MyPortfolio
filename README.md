@@ -1,4 +1,5 @@
-# Fajri_Portofolio
+# Rahmat
+# Fajri
 My data science portofolio
 
 # [Project 1: Data Science .......](https://github.com/rfajri27/numerical-methods)
