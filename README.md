@@ -8,8 +8,8 @@ It's My Portfolio
 - Used Deep Neural Network (DNN) as a model
 - Deployed the model into Android App using TensorFlow Lite and published on GitHub as an open-source
 project
-![](images/gambar_1.png)
-![](images/gambar_2.png)
+
+![](images/gambar_1.png) ![](images/gambar_2.png)
 
 ## [Exploring E-Commerce Data](https://github.com/rfajri27/Exploring_E_Commerce_Data.git)
 - analyzed product per category
