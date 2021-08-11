@@ -12,7 +12,7 @@ project
 ![](images/gambar_1.png) ![](images/gambar_2.png)
 
 ## [Exploring E-Commerce Data](https://github.com/rfajri27/Exploring_E_Commerce_Data.git)
-- analyzed product per category
-- analyzed users status
-- analyzed order status
-- analyzed top ten most popular products
+- Analyzed product per category
+- Analyzed users status
+- Analyzed order status
+- Analyzed top ten most popular products
