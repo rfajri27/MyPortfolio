@@ -4,9 +4,8 @@
 I am a  fresh graduate from Brawijaya University, majoring in Computational Physics. I have an interest in machine learning and enjoy exploring everything about data. During my university, I continuously find ways to develop my passion and skills such as joining training programs and doing some personal projects. I'm seeking a job with a healthy work environment where I can improve my skills and knowledge efficiently for organizational growth.
 
 ## [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
-- Filtering invalid customerID
-- Handling missing values, outliers & not standard values
-- Analyzed distribution of churn customer
+- Handling invalid customerID, missing values, outliers & not standard values
+- Analyzed distribution of churn customers
 - Implemented Logistic Regression, Random Forest Classifier, & Gradient Boosting Classifier to predict customer churn
 - **Tools**: Pandas, Numpy, Scikit Learn, Matplotlib, Seborn, Github
 
