@@ -7,16 +7,23 @@ I am a  fresh graduate from Brawijaya University, majoring in Computational Phys
 - Handling invalid customerID, missing values, outliers & not standard values
 - Analyzed distribution of churn customers
 - Implemented Logistic Regression, Random Forest Classifier, & Gradient Boosting Classifier to predict customer churn
-- **Tools**: Pandas, Numpy, Scikit Learn, Matplotlib, Seborn, Github
+- **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seborn, Github
 
 ![](images/snf_log_model.png) ![](images/snf_cnf_model.png) ![](images/snf_gbt_model.png)
 
 ## [Customer Segmentation](https://github.com/rfajri27/customer_segmentation)
 - Analyzed customer distribution by Gender and by Age
 - Implemented K-Means algorithm to do customer segmentation using Annual Income & Spending Score
-- **Tools**: Pandas, Numpy, Scikit Learn, Matplotlib, Github
+- **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Github
 
 ![](images/km_clustering.png)
+
+## [Recommender System](https://github.com/rfajri27/Exploring_E_Commerce_Data)
+- Handling missing values
+- Data preprocessing
+- Implemented similarity function to build recomender system
+- Implemented weighted average to build recomender system
+- **Tools**: Pandas, Numpy, Scikit-Learn, GitHub
 
 ## [Exploring E-Commerce Data](https://github.com/rfajri27/Exploring_E_Commerce_Data)
 - Analyzed product per category, users status, and order status
