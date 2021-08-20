@@ -21,8 +21,8 @@ I am a  fresh graduate from Brawijaya University, majoring in Computational Phys
 ## [Recommender System](https://github.com/rfajri27/recommender_system)
 - Handling missing values
 - Data preprocessing
-- Implemented similarity function to build recomender system
-- Implemented weighted average to build recomender system
+- Implemented similarity function to build a recommender system
+- Implemented weighted average to build a recommender system
 - **Tools**: Pandas, Numpy, Scikit-Learn, GitHub
 
 ## [Exploring E-Commerce Data](https://github.com/rfajri27/Exploring_E_Commerce_Data)
