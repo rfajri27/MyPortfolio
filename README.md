@@ -18,7 +18,7 @@ I am a  fresh graduate from Brawijaya University, majoring in Computational Phys
 
 ![](images/km_clustering.png)
 
-## [Recommender System](https://github.com/rfajri27/Exploring_E_Commerce_Data)
+## [Recommender System](https://github.com/rfajri27/recommender_system)
 - Handling missing values
 - Data preprocessing
 - Implemented similarity function to build recomender system
