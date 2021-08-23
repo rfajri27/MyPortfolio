@@ -15,7 +15,7 @@ I am a  fresh graduate from Brawijaya University, majoring in Computational Phys
 - Handling missing values & outliers
 - Analyzed customer distribution
 - Implemented K-Prototypes algorithm to do customer segmentation
-- Identify 5 cluster of customer
+- Identify 5 clusters of customer
 - **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Github
 
 ![](images/box_plot_age.png) ![](images/plot_cc_Ever_Married.png) 
