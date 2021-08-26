@@ -3,11 +3,16 @@
 
 I am a  fresh graduate from Brawijaya University, majoring in Computational Physics. I have an interest in machine learning and enjoy exploring everything about data. During my university, I continuously find ways to develop my passion and skills such as joining training programs and doing some personal projects. I'm seeking a job with a healthy work environment where I can improve my skills and knowledge efficiently for organizational growth.
 
+## [Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)
+- Analyzed the correlation between risk rating with other parameters
+- Implemented Decision Tree algorithm as a decision-making model
+- **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seborn, Github
+
 ## [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
 - Handling invalid customerID, missing values, outliers & not standard values
 - Analyzed distribution of churn customers
 - Implemented Logistic Regression, Random Forest Classifier, Gradient Boosting Classifier to predict customer churn
-- **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seborn, Github
+- **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Github
 
 ![](images/snf_log_model.png) ![](images/snf_cnf_model.png) ![](images/snf_gbt_model.png)
 
