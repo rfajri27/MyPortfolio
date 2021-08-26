@@ -8,6 +8,14 @@ I am a  fresh graduate from Brawijaya University, majoring in Computational Phys
 - Implemented Decision Tree algorithm as a decision-making model
 - **Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seborn, Github
 
+```
+Prediction Report (Data Training) :
+Accuracy:  1.0
+
+Prediction Report (Data Testing):
+Accuracy:  1.0
+```
+
 ## [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
 - Handling invalid customerID, missing values, outliers & not standard values
 - Analyzed distribution of churn customers
