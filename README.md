@@ -3,6 +3,7 @@
 
 I am a  fresh graduate from Brawijaya University, majoring in Computational Physics. I have an interest in machine learning and enjoy exploring everything about data. During my university, I continuously find ways to develop my passion and skills such as joining training programs and doing some personal projects. I'm seeking a job with a healthy work environment where I can improve my skills and knowledge efficiently for organizational growth.
 
+
 ## [Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)
 - Analyzed the correlation between risk rating with other parameters
 - Implemented Decision Tree algorithm as a decision-making model
